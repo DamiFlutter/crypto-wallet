@@ -20,9 +20,9 @@
  Ui developed by DamiFlutter [![Twitter Follow](https://img.shields.io/twitter/follow/MortyWentMia.svg?style=social)](https://twitter.com/MortyWentMia)
 
 # Screenshot:
-# Light Mode
+# Light Mode & Dark Mode
 <img src="/assets/images/collage.jpg"/>
-# Dark Mode
+
 <img src="/assets/images/darkmode1.jpg"/>
 
 # Leave a star on the repository if you like what you see.
